@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AliciaOnlineLauncher", "AliciaOnlineLauncher.vcxproj", "{D6221FCC-CC19-454D-B8CA-F0CC072B854E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AliciaOnlineUpdater", "..\AliciaOnlineUpdater\AliciaOnlineUpdater.vcxproj", "{199BF478-AE40-488A-B183-296318B79D46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D6221FCC-CC19-454D-B8CA-F0CC072B854E}.Release|x64.Build.0 = Release|x64
 		{D6221FCC-CC19-454D-B8CA-F0CC072B854E}.Release|x86.ActiveCfg = Release|Win32
 		{D6221FCC-CC19-454D-B8CA-F0CC072B854E}.Release|x86.Build.0 = Release|Win32
+		{199BF478-AE40-488A-B183-296318B79D46}.Debug|x64.ActiveCfg = Debug|x64
+		{199BF478-AE40-488A-B183-296318B79D46}.Debug|x64.Build.0 = Debug|x64
+		{199BF478-AE40-488A-B183-296318B79D46}.Debug|x86.ActiveCfg = Debug|Win32
+		{199BF478-AE40-488A-B183-296318B79D46}.Debug|x86.Build.0 = Debug|Win32
+		{199BF478-AE40-488A-B183-296318B79D46}.Release|x64.ActiveCfg = Release|x64
+		{199BF478-AE40-488A-B183-296318B79D46}.Release|x64.Build.0 = Release|x64
+		{199BF478-AE40-488A-B183-296318B79D46}.Release|x86.ActiveCfg = Release|Win32
+		{199BF478-AE40-488A-B183-296318B79D46}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
