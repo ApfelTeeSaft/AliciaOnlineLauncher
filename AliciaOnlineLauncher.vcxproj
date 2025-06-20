@@ -36,14 +36,14 @@
     <ClCompile Include="registry.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="launcher.rc" />
-  </ItemGroup>
-  <ItemGroup>
     <Manifest Include="launcher.manifest" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="icon1.ico" />
     <Image Include="launcher.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
